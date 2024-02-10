@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:0;
+}
+header{
+    background: linear-gradient(180deg,gray,whitesmoke);
+    padding:10px;
+    text-align: center;
+    color:blue;
+}
+figure{
+    border:2px solid gray;
+    width:250px;
+    background-color: lightgray;
+    box-shadow: 0 0 10px black;
+    margin: 5px;
+    display: inline-block;
+    margin-left: 45px;
+}
+figure figcaption{
+text-align: center;
+
+}
+figure img{
+display:block;
+    margin: auto;
+    margin-top: 10px;
+    
+}
